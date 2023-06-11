@@ -1,0 +1,15 @@
+Host github.com
+    HostName github.com
+    User kmalcaba
+    PreferredAuthentications publickey
+    AddKeysToAgent yes
+    IdentityFile ~/.ssh/id_e25519
+    IdentitiesOnly yes
+
+Host tencurse
+		HostName github.com
+		User tencurse
+		AddKeysToAgent yes
+		PreferredAuthentications publickey
+		IdentityFile ~/.ssh/id_ed25519_tencurse
+		IdentitiesOnly yes
