@@ -1,9 +1,10 @@
-Host github.com
+Host kmalcaba
     HostName github.com
     User kmalcaba
     PreferredAuthentications publickey
+    PubKeyAuthentication yes
     AddKeysToAgent yes
-    IdentityFile ~/.ssh/id_e25519
+    IdentityFile ~/.ssh/id_ed25519
     IdentitiesOnly yes
 
 Host tencurse
