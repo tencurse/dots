@@ -1,0 +1,10 @@
+[user]
+	name = Kirsten Malcaba
+	email = kmalcaba@gmail.com
+[init]
+	defaultBranch = main
+[color]
+	ui = auto
+[core]
+	crlf = false
+	eol = lf
