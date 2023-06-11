@@ -1,0 +1,12 @@
+.gitconfig             .gitconfig
+.bash_profile          .bash_profile
+.bashrc                .bashrc
+.profile               .profile
+.shell.pre-oh-my-zsh   .shell.pre-oh-my-zsh
+.Xclients              .Xclients
+.xinitrc               .xinitrc
+.zshrc                 .zshrc
+.zshrc.pre-oh-my-zsh   .zshrc.pre-oh-my-zsh
+autosuggestions        .zsh/custom/plugins/zsh-autosuggestions
+ssh/config             .ssh/config
+picom.conf             .config/picom/picom.conf
